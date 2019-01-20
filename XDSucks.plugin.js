@@ -161,7 +161,7 @@ class KillXD {
 	}
 
 	get link() {
-		return `IDontUseGitHubBecauseGitHubIsGay`;
+		return `https://github.com/lolitsace/XDSucks`;
 	}
 
 	get name() {
@@ -169,11 +169,11 @@ class KillXD {
 	}
 
 	get author() {
-		return 'Ace';
+		return 'lolitsace';
 	}
 
 	get version() {
-		return '1.0.6';
+		return '1.0.7';
 	}
 
 	get description() {
